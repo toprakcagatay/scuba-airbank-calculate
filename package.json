@@ -1,0 +1,12 @@
+{
+  "name": "scuba-airbank-calculate",
+  "version": "1.0.0",
+  "description": "Calculate fillings from airbank tanks to scuba tanks",
+  "main": "lib/AirbankFactory.js",
+  "scripts": {
+    "calculate": "node calculate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cagatay TOPRAK",
+  "license": "ISC"
+}

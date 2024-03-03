@@ -1,0 +1,74 @@
+{
+  "airbanks": [
+    {
+      "volume": 50,
+      "pressure": 220
+    },
+    {
+      "volume": 50,
+      "pressure": 220
+    },
+    {
+      "volume": 50,
+      "pressure": 10
+    },
+    {
+      "volume": 50,
+      "pressure": 220
+    },
+    {
+      "volume": 50,
+      "pressure": 220
+    }
+  ],
+  "fills": [
+    [
+      {
+        "volume": 15,
+        "pressure": 40
+      },
+      {
+        "volume": 15,
+        "pressure": 35
+      },
+      {
+        "volume": 15,
+        "pressure": 30
+      },
+      {
+        "volume": 15,
+        "pressure": 50
+      }
+    ],
+    [
+      {
+        "volume": 15,
+        "pressure": 21
+      },
+      {
+        "volume": 15,
+        "pressure": 61
+      },
+      {
+        "volume": 15,
+        "pressure": 41
+      },
+      {
+        "volume": 15,
+        "pressure": 51
+      },
+      {
+        "volume": 15,
+        "pressure": 61
+      },
+      {
+        "volume": 15,
+        "pressure": 41
+      },
+      {
+        "volume": 15,
+        "pressure": 51
+      }
+    ]
+  ]
+}
